@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/z5on6/z5on6.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=z5on6&repo=z5on6.github.io&theme=default" />
+
+
 
 ![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=z50n6&theme=xcode)
