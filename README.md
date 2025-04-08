@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 
 ![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=z50n6&theme=xcode)
-![](https://stats.justsong.cn/api/csdn?username=ZhaoSong_&cn=true)
